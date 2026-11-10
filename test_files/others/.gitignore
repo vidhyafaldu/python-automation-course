@@ -3,6 +3,6 @@
 venv/
 __pycache__/
 *.py[cod]
-instance/
-uploads/
+instancedemo/
+uploadsde/
 *.log
